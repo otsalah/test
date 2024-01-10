@@ -3,3 +3,4 @@ if hungary == "yes":
     print("eat fool")
 else:
     print("study")
+print("done")
